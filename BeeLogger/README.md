@@ -1,8 +1,8 @@
 # BeeLogger
 
 Copyright 2017 BeeLogger
-Written by: * **Alisson Moretto** - [4w4k3](https://github.com/4w4k3)
-Twitter: @4w4k3Official
+Written by: * ** ** -(https://github.com/4w4k3)
+
 
 TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
 
@@ -12,7 +12,7 @@ NOTE: BeeLogger just have official support for latin languages in this moment.
 
 ## HOW TO INSTALL:
 
-Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
+
 
 ### Cloning:
 ```
@@ -96,13 +96,10 @@ To disable bee just run [UnInfectMe.bat](UnInfectMe.bat) on target.
 
 More in [Screens](Screens)
 
-### Contribute:
-Send me more features if you want it :D
 
 **I need your Help to become it to better.**
 
 ### Contact:
-**4w4k3@protonmail.com**
 
 ## License:
 
