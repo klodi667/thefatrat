@@ -89,7 +89,8 @@ To disable bee just run [UnInfectMe.bat](UnInfectMe.bat) on target.
 
 
 ### Screenshot:
-![Shot](https://github.com/4w4k3/BeeLogger/blob/master/Screens/shot.png)
+![Shot]
+(https://github.com/4w4k3/BeeLogger/blob/master/Screens/shot.png)
 
 More in [Screens](Screens)
 
